@@ -1,0 +1,35 @@
+[
+  {
+    "logical_name": "usernameInput",
+    "label": "Username",
+    "tag": "input",
+    "type": "text",
+    "id": "userName",
+    "name": "username",
+    "placeholder": null,
+    "form_heading": "Login",
+    "position_in_form": 1
+  },
+  {
+    "logical_name": "passwordInput",
+    "label": "Password",
+    "tag": "input",
+    "type": "password",
+    "id": "password",
+    "name": "password",
+    "placeholder": null,
+    "form_heading": "Login",
+    "position_in_form": 2
+  },
+  {
+    "logical_name": "submitButton",
+    "label": null,
+    "tag": "button",
+    "type": "submit",
+    "id": null,
+    "name": null,
+    "placeholder": null,
+    "form_heading": "Login",
+    "position_in_form": 3
+  }
+]
