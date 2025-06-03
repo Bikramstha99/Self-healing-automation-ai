@@ -1,4 +1,5 @@
 {
-    "passwordInput": "password",
-    "loginButton": "button[type='submit']"
+  "usernamesInput": "ggss",
+  "passwordInput": "password",
+  "loginButton": "button[type=\"submit\"]"
 }
