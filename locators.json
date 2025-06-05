@@ -1,10 +1,8 @@
 {
-  "usernamesInput": "usernames",
-  "passwordInput": "password",
-  "loginButton": "button[type=\"submit\"]",
-  "dashboard": "dashboard",
-  "dashboardTitle": "dashboard-title",
-  "addCardButton": "add-card-button",
-  "cardsContainer": "cards-container",
-  "card1": ".card:nth-of-type(1)"
+  "login_usernamesInput": "#usernames",
+  "login_passwordInput": "#password",
+  "dashboard_addcardButton": "#add-card-button",
+  "dashboard_Bikram": "#Bikram",
+  "dashboard_dashboard-title": "#dashboard-title",
+  "dashboard_cards-container": "#cards-container"
 }
