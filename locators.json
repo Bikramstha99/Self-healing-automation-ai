@@ -1,5 +1,10 @@
 {
-  "usernamesInput": "ggss",
+  "usernamesInput": "usernames",
   "passwordInput": "password",
-  "loginButton": "button[type=\"submit\"]"
+  "loginButton": "button[type=\"submit\"]",
+  "dashboard": "dashboard",
+  "dashboardTitle": "dashboard-title",
+  "addCardButton": "add-card-button",
+  "cardsContainer": "cards-container",
+  "card1": ".card:nth-of-type(1)"
 }
